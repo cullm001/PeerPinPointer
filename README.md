@@ -27,25 +27,10 @@ Languages, Technologies, and Tools: <br />
  
  ## Testing
  > This project was tested using on our personal iPhone devices and the iPhone emulation on Xcode.
- 
-  ## Screenshots
-************************************************************************************************************
-Login Page
-![Simulator_Screenshot_-_iPhone_14_Pro_-_2023-04-30_at_08 36 31](https://user-images.githubusercontent.com/114531279/235362582-e37ef076-9f32-4c60-afe0-fa8d6b0e7338.png)
-
-************************************************************************************************************
-Peer Find Page
-![Simulator_Screenshot_-_iPhone_14_Pro_-_2023-04-30_at_08 36 55](https://user-images.githubusercontent.com/114531279/235362601-ee76fb3c-30a3-4fca-a76d-ca0b9634c111.png)
-![Simulator_Screenshot_-_iPhone_14_Plus_-_2023-04-30_at_08 37 33](https://user-images.githubusercontent.com/114531279/235362614-9ef778f5-b2d4-49dd-a353-263ccc5cab94.png)
-
-************************************************************************************************************
-Invitation Page
-![Simulator_Screenshot_-_iPhone_14_Plus_-_2023-04-30_at_08 44 22](https://user-images.githubusercontent.com/114531279/235362754-3dd9396b-8cdc-4466-9e83-65f6e8564b9b.png)
-
-************************************************************************************************************
-MultiPure Connectivity Page
 
 
-************************************************************************************************************
+
+https://user-images.githubusercontent.com/102619047/235365568-701d2310-bedb-4bcf-9807-3a91eb9e1325.mp4
+
 
  
