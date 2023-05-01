@@ -29,11 +29,5 @@ Languages, Technologies, and Tools: <br />
  > This project was tested using on our personal iPhone devices and the iPhone emulation on Xcode.
 
 
-https://user-images.githubusercontent.com/102619047/235365568-701d2310-bedb-4bcf-9807-3a91eb9e1325.mp4
-
-
- 
-
-
 https://user-images.githubusercontent.com/102619047/235512281-98e01b30-cacc-490a-9bb2-e014307a9b6f.mp4
 
